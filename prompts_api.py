@@ -26,7 +26,7 @@ def handle_query():
 def extract_liked_images(liked_images_id):
     file_path = "outfit_dataset.xlsx"
 
-    liked_images_id = ["1", "2", "3", "4"]
+    liked_images_id = ["1", "2", "3", "4", "5"]
     liked_images_id = list(map(int, liked_images_id))
 
     df = pd.read_excel(file_path)
