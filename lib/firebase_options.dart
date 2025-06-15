@@ -47,29 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDjKMiq6ucLQBSlamqkbfKKnS2bxZe1d8o',
-    appId: '1:636657363748:android:a915f3a3a5a907d0d721b1',
-    messagingSenderId: '636657363748',
-    projectId: 'sentimentanalysis-7ba59',
-    storageBucket: 'sentimentanalysis-7ba59.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA56sVjdCi8zU9Hj2Zjtw2Q7ydiO398G0o',
-    appId: '1:636657363748:ios:b81a844da36a62d0d721b1',
-    messagingSenderId: '636657363748',
-    projectId: 'sentimentanalysis-7ba59',
-    storageBucket: 'sentimentanalysis-7ba59.firebasestorage.app',
-    iosBundleId: 'com.example.almari',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA9rhtqpU3ZydripFZntWfb0kYEqerhYPw',
-    appId: '1:636657363748:web:400e2c7a6edcf30ad721b1',
-    messagingSenderId: '636657363748',
-    projectId: 'sentimentanalysis-7ba59',
-    authDomain: 'sentimentanalysis-7ba59.firebaseapp.com',
-    storageBucket: 'sentimentanalysis-7ba59.firebasestorage.app',
-    measurementId: 'G-F65DRNBHJV',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
